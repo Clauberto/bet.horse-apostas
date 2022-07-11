@@ -1,0 +1,3 @@
+pip install tkinter
+pip install openpyxl
+pip install pandas
